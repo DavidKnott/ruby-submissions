@@ -2,17 +2,17 @@ Alex Fosco:
 
 Amara Lovato:
 
-Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
+Amy Kintner:
 
-Ann Wolff: Molecules and Modernism: How Technology Inspired Impressionism
+Ann Wolff: 
 
-Brett Rivers: Botnets & the Intternet of Things
+Brett Rivers:
 
-Caroline Powell:  Eutrophication
+Caroline Powell:
 
 Daniel Rodriguez:
 
-David Knott:
+David Knott:  How Ruby Can Save Your Marriage
 
 Drew Palazzari:
 
@@ -20,20 +20,19 @@ Edilene Cruz:
 
 Eric Wahlgren-Sauro: 
 
-Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
+Ethan Bennett:
 
 Jason Conrad:
 
-Jesse Shipley: How to get Google to fix your car.
+Jesse Shipley:
 
-Kyle Heppenstall: Become a better person in 72 lonely hours
+Kyle Heppenstall:
 
-Josh Cohen: 
-  Modern Nuclear Submarines
+Josh Cohen:
 
-Laszlo Balogh: Appriciating a car infotainment system
+Laszlo Balogh:
 
-Lucy Conklin: Mars Rover Landing Mechanisms
+Lucy Conklin:
 
 Marisa Burton:
 
@@ -41,7 +40,7 @@ Molly Brown:
 
 Michael Hill:
 
-Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
+Michael Schutte:
 
 Nick Erhardt:
 
@@ -49,5 +48,5 @@ Nick Gheorgita:
 
 Phyllis Hugunien:
 
-Robbie Smith:"Do you Strava?"
+Robbie Smith:
 
